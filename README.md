@@ -63,5 +63,5 @@ Afin que le code pur soit accessible, on push notre code dans un répertoire Git
 
 #### Voici les URLs vers mon image DockerHub et mon repo GitHub :
 
-https://hub.docker.com/repository/docker/luciebottin/weatherapi
-https://github.com/LucieBottin/devops
+* https://hub.docker.com/repository/docker/luciebottin/weatherapi
+* https://github.com/LucieBottin/devops
