@@ -14,7 +14,6 @@ app.post('/predict', function (req, res) {
     });
   });
     res.status(200).send(query);
-  });
 
   app.get('/api', function(req, res) {
     const user_id = req.query.id;
